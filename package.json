@@ -36,7 +36,7 @@
     "react": "*",
     "react-native": "*",
     "react-native-gesture-handler": "*",
-    "react-native-reanimated": "2.14.2"
+    "react-native-reanimated": "*"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^7.5.0",
